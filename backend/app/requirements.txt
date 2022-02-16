@@ -1,0 +1,9 @@
+cleo
+tomlkit
+poetry-core
+cachecontrol
+cachy
+html5lib
+pkginfo
+virtualenv
+lockfile
